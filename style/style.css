@@ -3,24 +3,24 @@ BODY {
     background-color: black;
 }
 
-img{
+img {
     margin-right: 85px;
     transform: rotate(-45deg);
 }
 
-.pica{
+.pica {
     display: flex;
     margin-top: 90px;
     margin-left: 250px;
 }
 
-.picb{
+.picb {
     display: flex;
-
-    margin:-55px 0px -55px 108px ;    
+    margin: -55px 0px -55px 108px;
 }
-.picc{
+
+.picc {
     display: flex;
     margin-left: 250px;
-    
+
 }
