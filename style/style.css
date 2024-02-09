@@ -1,26 +1,33 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
 BODY {
-    margin: 100px;
+    padding: 80px;
     background-color: black;
 }
 
 img {
-    margin-right: 85px;
+    margin-left: 90px;
     transform: rotate(-45deg);
 }
 
 .pica {
-    display: flex;
-    margin-top: 90px;
-    margin-left: 250px;
+    position: absolute;
+    left: 277px;
+    top: 100px;
 }
 
 .picb {
-    display: flex;
-    margin: -55px 0px -55px 108px;
+    position: absolute;
+    top: 250px;
+    left:130px;
 }
 
 .picc {
-    display: flex;
-    margin-left: 250px;
-
+    position: absolute;
+    top: 400px;
+    left: 277px;
 }
